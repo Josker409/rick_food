@@ -1,0 +1,86 @@
+.horario{
+    text-align: center;
+}
+
+body{
+    background-color: #262c3a;
+    background-image: url('img/rick.png');
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+*{
+    color: white;
+}
+.atras{
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+    font-size: 22px;;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    color: black;
+    background-color: lightblue;
+    margin: 10px;
+    margin-left: 300px;
+    text-align: center;
+    position: static;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    box-shadow: tomato 0 0 0 2px;
+}
+
+
+footer{
+    padding: 20px;
+    text-align: center;
+    height: 150px;
+}
+
+footer p{
+    margin-bottom: 20px;
+    /* color: azure; */
+}
+
+footer .redes a{
+    /* color: azure;  */
+    text-decoration: none;
+}
+
+footer .redes i{
+    /* color: azure; */
+    font-style: 50px;
+}
+.linkedin{
+    margin: 20px;
+}
+.github{
+    margin: 20px;
+}
+.copyright{
+    margin: 20px;
+}
+
+.What {
+    height: 40px;
+    width: 40px;
+    background-color: springgreen;
+    color: #F8FFE5;
+    position: fixed;
+    right: 30px;
+    bottom: 40px;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    border: 2px solid #F8FFE5;
+}
